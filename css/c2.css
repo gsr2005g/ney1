@@ -1,0 +1,15 @@
+body{
+    background-color:grey;
+
+}
+body{
+    background-image: url("https://th.bing.com/th/id/R.2b38fd9ae3977e1523cfee5fa70dfbcf?rik=erS7baomr6upIg&pid=ImgRaw&r=0");
+    background-size: 100%;
+}
+
+p{ font-size: 50px;  text-align: center;  color:#FF3131; }
+
+.t1{ text-align: center; color:#5CE1E6; }
+.t2{ text-align: center; color:aliceblue}
+
+     
